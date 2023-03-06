@@ -1,0 +1,13 @@
+   :root{ --topbar-color:#1a73e8;
+    --background-color: #e8eaed;
+    --green-color:#02b331;
+    --white-color:#fff;
+  }
+
+body{
+    background-color: var(--white-color);
+}
+.link{
+  text-decoration: none;
+  color: inherit;
+}

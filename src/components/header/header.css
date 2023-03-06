@@ -1,0 +1,24 @@
+.headerimg{
+  height: 600px;
+  width: 600px;
+}
+
+.header{
+  display: flex;
+  justify-content: space-around;
+
+}
+.headtitle{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.headertitlesm{
+  color: rgb(148, 148, 148);
+  font-size: x-large;
+}
+.headertitlelg{
+  font-size:85px;
+  color: rgb(54, 54, 54);
+}
